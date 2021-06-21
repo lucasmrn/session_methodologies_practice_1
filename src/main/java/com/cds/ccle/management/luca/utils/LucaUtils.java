@@ -1,5 +1,7 @@
 package com.cds.ccle.management.luca.utils;
 
+/*comentario generado por Lucas Marin */
+
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;

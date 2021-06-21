@@ -1,0 +1,12 @@
+Methodologies and ToolsGit
+Create(Ifneeded)aGitHubaccount
+Createaforkfromhttps://github.com/cdsacademy/session_methodologies_practice_1
+Cloneyourforkinlocal(usinggitBash)
+Uploadafile(feelfreewithcontentbutatextplain)intopfolderlevelinproject
+Createabranch
+Changeadifferentmethodinsrc/main/java/com/cds/ccle/management/luca/utils/LucaUtils.javaclass(Notepadisenough
+)orjustaddcommentsUploadthechangetotherepositoryagain
+Reintegratethebranchintothemaster
+Nowyoushouldbeabletoseeyourchangesinmasterandyourbranchgitcheckout
+-b <branch_name>gitclone <your_fork_project_url>.gitgitcommit 
+-m <comment>gitpushgitcheckout mastergitpullgitmerg
